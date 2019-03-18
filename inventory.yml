@@ -1,2 +1,6 @@
+[all:vars]
+ansible_user=root
+ansible_python_interpreter=/usr/bin/python3
+
 [ipfs]
-# Write here your ipfs nodes
+lon1.ipfs.tableflip.io
